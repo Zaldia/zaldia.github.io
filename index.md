@@ -1,2 +1,12 @@
 # Black Beauty
-Der Roman ist aus der Sicht des schwarzen Hengstes Black Beauty erzählt und schildert dessen erste etwa fünfzehn Lebensjahre – vom behütet aufgewachsenen Fohlen zum Reit- und Kutschpferd in einer tierlieben und verständnisvollen Familie über mehrere Stationen abwärts. Black Beauty gerät in unkundige Hände, die ihn und seine Gefährtin, die Fuchsstute Ginger, mit Aufsatzzügeln quälen, er wird von einem unerfahrenen Stalljungen durch falsche Behandlung in Lebensgefahr gebracht und von einem Betrunkenen in hohem Tempo über eine steinige Straße gejagt, obwohl er ein loses Hufeisen hat und zwangsläufig stürzen muss. Auch die Gefahren, die von falscher Fütterung und Haltung auf schmutziger Streu ausgehen, werden geschildert. Als Droschken- und Mietpferd in London büßt Black Beauty wegen der Unterbringung in einem finsteren Stall fast sein Augenlicht ein. Nach und nach kommt er so herunter, dass kaum mehr Hoffnung auf ein glückliches Ende besteht. Doch als Black Beauty wieder einmal verkauft werden soll, zieht er die Aufmerksamkeit eines kleinen Jungen auf sich, der seinen Großvater überreden kann, das Pferd zu kaufen. Glücklicherweise gerät er so in die Hände seines einstigen Stalljungen, und die Erzählung endet mit der beruhigenden Aussicht, dass das Tier nun sein Gnadenbrot erhält und nie wieder verkauft werden soll.
+* ist ein schwarzer Hengst
+* ist behuetet aufgewachsenen 
+* wurde dann zum Reit- und Kutschpferd in einer tierlieben und verstaendnisvollen Familie ausgebildet 
+* er geriet in unkundige Haende, die ihn mit Aufsatzzuegeln quaelten
+* er wird von einem unerfahrenen Stalljungen durch falsche Behandlung in Lebensgefahr gebracht
+* er wurde von einem Betrunkenen in hohem Tempo ueber eine steinige Strasse gejagt und stuerzte 
+* als Droschken- und Mietpferd in London verlor Black Beauty wegen der Unterbringung in einem finsteren Stall fast sein Augenlicht 
+* nach und nach kommt er so herunter, dass kaum mehr Hoffnung auf ein gutes Ende besteht
+* ein kleiner Jungen ueberredet seinen Großvater ihn zu kaufen
+* dadurch gelangt er wieder in die Obhut seines einstigen Stalljungen
+* sein restliches Leben verbringt er gluecklich und zufrieden auf einer Obstwiese und wurde nie wieder verkauft.
