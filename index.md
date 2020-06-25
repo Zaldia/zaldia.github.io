@@ -1,12 +1,2 @@
 # Black Beauty
-* ist ein schwarzer Hengst
-* ist behuetet aufgewachsenen 
-* wurde dann zum Reit- und Kutschpferd in einer tierlieben und verstaendnisvollen Familie ausgebildet 
-* er geriet in unkundige Haende, die ihn mit Aufsatzzuegeln quaelten
-* er wird von einem unerfahrenen Stalljungen durch falsche Behandlung in Lebensgefahr gebracht
-* er wurde von einem Betrunkenen in hohem Tempo ueber eine steinige Strasse gejagt und stuerzte 
-* als Droschken- und Mietpferd in London verlor Black Beauty wegen der Unterbringung in einem finsteren Stall fast sein Augenlicht 
-* nach und nach kommt er so herunter, dass kaum mehr Hoffnung auf ein gutes Ende besteht
-* ein kleiner Jungen ueberredet seinen Großvater ihn zu kaufen
-* dadurch gelangt er wieder in die Obhut seines einstigen Stalljungen
-* sein restliches Leben verbringt er gluecklich und zufrieden auf einer Obstwiese und wurde nie wieder verkauft.
+Ist ein schwarzer Hengst, der behuetet aufgewachsenen ist. Eine tierlieben und verstaendnisvollen Familie bildet ihn zum Reit- und Kutschpferd aus. Er geriet jedoch in unkundige Haende, die ihn mit Aufsatzzuegeln quaelten. Ein unerfahrener Stalljungen bringt ihn durch falsche Behandlung in Lebensgefahr. Dies uebersteht Black Beauty, geraet aber in die Haende eines Betrunkenen, der ihn in hohem Tempo ueber eine steinige Strasse gejagt. Dabei stuerzte er und verletzt sich. Als Droschken- und Mietpferd in London verlor Black Beauty wegen der Unterbringung in einem finsteren Stall fast sein Augenlicht. Nach und nach kommt er so herunter, dass kaum mehr Hoffnung auf ein gutes Ende besteht. Als ihn ein kleiner Jungen auf dem Pferdemarkt sieht, ueberredet dieser seinen Großvater ihn zu kaufen. Dadurch gelangt er wieder in die Obhut seines einstigen Stalljungen. Sein restliches Leben verbringt er gluecklich und zufrieden auf einer Obstwiese und wurde nie wieder verkauft.
