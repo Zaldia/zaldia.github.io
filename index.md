@@ -7,5 +7,5 @@ ein schwarzes Pferd
 * 4 Hufe
 * braune Augen
 * starke Beine
-* glänzendes Fell
+* glaenzendes Fell
 * weiche Nase
