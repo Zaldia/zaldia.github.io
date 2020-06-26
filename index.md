@@ -6,3 +6,6 @@ ein schwarzes Pferd
 * lange Haare
 * 4 Hufe
 * braune Augen
+* starke Beine
+* glaenzendes Fell
+* weiche Nase
