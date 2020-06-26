@@ -11,4 +11,4 @@ ein schwarzes Pferd
 * weiche Nase
 As Black Beauty said:
 >Als Pferd musst du hoffen, dass dein Besitzer es gut mit dir meint.
->Ein Pferd hilft seinem Besitzer sich selbst besser kennen zu lernen.
+>Ein Pferd hilft seinem Besitzer, sich selbst besser kennen zu lernen.
